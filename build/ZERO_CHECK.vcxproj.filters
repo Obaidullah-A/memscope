@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Optiplex\Documents\Projects\H3LPWIN\memscope\build\CMakeFiles\74dcf0be48852c2cf869d1b62170dc70\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{93131799-50CD-3DD6-9AF1-516349B6741C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
