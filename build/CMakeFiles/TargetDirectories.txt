@@ -1,3 +1,0 @@
-C:/Users/Optiplex/Documents/Projects/H3LPWIN/memscope/build/CMakeFiles/memscope.dir
-C:/Users/Optiplex/Documents/Projects/H3LPWIN/memscope/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Optiplex/Documents/Projects/H3LPWIN/memscope/build/CMakeFiles/ZERO_CHECK.dir
